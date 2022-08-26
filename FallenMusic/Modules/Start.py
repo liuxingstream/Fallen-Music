@@ -76,7 +76,7 @@ async def gstart(_, message: Message):
                     text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT
                 ),
                 InlineKeyboardButton(
-                    text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=config.SUPPORT_CHANNEL
+                    text="💘 ᴠɪᴘ ʜᴋꜱ 💘", url=config.SUPPORT_CHANNEL
                 ),
             ],
             [
