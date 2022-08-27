@@ -1,9 +1,9 @@
 {
   "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "logo": "https://telegra.ph/file/27b618e6006ed4f3804c3.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "fallen"],
-  "repository": "https://github.com/AnonymousR1025/FallenMusic",
+  "repository": "https://github.com/liuxingstream/Fallen-Music",
   "stack": "container",
   "env": {
     "API_ID": {
